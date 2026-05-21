@@ -1,5 +1,4 @@
 # Architecture-Fusion-1
-CS4C - Hermosisima, Madlos Final Project for CS412
 
 The CIFAR-10 dataset can be downloaded(https://www.cs.toronto.edu/~kriz/cifar.html) for local usage or directly from torchvision datasets.
 
